@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @anampa847
-- 👀 I’m interested in Pemrograman Web
-- 🌱 I’m currently learning  Pemrograman Web
-- 💞️ I’m looking to collaborate on Pengembangan web
-- 📫 How to reach me ...
+- 👋 Hi, Saya Moh Khoirul Anam
+- 👀 Saya tertarik dengan Pemrograman Web
+- 🌱 Saya sedang belajar Pemrograman Web
+- 💞️ Saya ingin berkolaborasi Pengembangan web
 
 <!---
 anampa847/anampa847 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
